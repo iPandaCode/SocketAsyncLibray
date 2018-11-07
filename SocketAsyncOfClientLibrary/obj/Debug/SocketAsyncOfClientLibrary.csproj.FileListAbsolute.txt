@@ -1,0 +1,4 @@
+E:\projects\Library\SocketAsyncLibrary\SocketAsyncOfClientLibrary\bin\Debug\SocketAsyncOfClientLibrary.dll
+E:\projects\Library\SocketAsyncLibrary\SocketAsyncOfClientLibrary\bin\Debug\SocketAsyncOfClientLibrary.pdb
+E:\projects\Library\SocketAsyncLibrary\SocketAsyncOfClientLibrary\obj\Debug\SocketAsyncOfClientLibrary.dll
+E:\projects\Library\SocketAsyncLibrary\SocketAsyncOfClientLibrary\obj\Debug\SocketAsyncOfClientLibrary.pdb

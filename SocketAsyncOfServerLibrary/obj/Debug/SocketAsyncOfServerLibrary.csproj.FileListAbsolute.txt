@@ -1,0 +1,5 @@
+E:\projects\Library\SocketAsyncLibrary\SocketAsyncOfServerLibrary\bin\Debug\SocketAsyncOfServerLibrary.dll
+E:\projects\Library\SocketAsyncLibrary\SocketAsyncOfServerLibrary\bin\Debug\SocketAsyncOfServerLibrary.pdb
+E:\projects\Library\SocketAsyncLibrary\SocketAsyncOfServerLibrary\obj\Debug\SocketAsyncOfServerLibrary.dll
+E:\projects\Library\SocketAsyncLibrary\SocketAsyncOfServerLibrary\obj\Debug\SocketAsyncOfServerLibrary.pdb
+E:\projects\Library\SocketAsyncLibrary\SocketAsyncOfServerLibrary\obj\Debug\SocketAsyncOfServerLibrary.csprojResolveAssemblyReference.cache
